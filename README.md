@@ -1,11 +1,6 @@
-# <div align="center"> rusty_ytdl </div>
+# crep_yt: a rusty_ytdl fork
 
-<div align="center">
-
-[![crates.io](https://img.shields.io/crates/v/rusty_ytdl.svg?style=for-the-badge&logo=rust)](https://crates.io/crates/rusty_ytdl)
-[![Released API docs](https://img.shields.io/badge/docs.rs-rusty__ytdl-C36241?style=for-the-badge&logo=docs.rs)](https://docs.rs/rusty_ytdl)
-
-</div>
+### this is the fork of `rusty_ytdl`. you may be visiting a wrong repo.
 
 Youtube searching and downloading module written with **pure Rust**.
 Download videos **blazing-fast** without getting stuck on Youtube download speed (Downloads 20MB video files in just 10 seconds!)
